@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "luhn": "^2.4.1",
+    "mailgun-js": "^0.6.7"
+  }
+}
